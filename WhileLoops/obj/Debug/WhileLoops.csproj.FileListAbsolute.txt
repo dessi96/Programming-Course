@@ -1,0 +1,6 @@
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\WhileLoops\bin\Debug\WhileLoops.exe.config
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\WhileLoops\bin\Debug\WhileLoops.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\WhileLoops\bin\Debug\WhileLoops.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\WhileLoops\obj\Debug\WhileLoops.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\WhileLoops\obj\Debug\WhileLoops.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\WhileLoops\obj\Debug\WhileLoops.pdb

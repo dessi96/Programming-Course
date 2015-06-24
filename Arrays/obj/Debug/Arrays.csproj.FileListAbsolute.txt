@@ -1,0 +1,6 @@
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\Arrays\bin\Debug\Arrays.exe.config
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\Arrays\bin\Debug\Arrays.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\Arrays\bin\Debug\Arrays.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\Arrays\obj\Debug\Arrays.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\Arrays\obj\Debug\Arrays.pdb

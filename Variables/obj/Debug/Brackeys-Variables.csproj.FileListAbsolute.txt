@@ -1,0 +1,6 @@
+d:\users\asus\documents\visual studio 2013\Projects\Brackeys-Variables\Brackeys-Variables\bin\Debug\Brackeys-Variables.exe.config
+d:\users\asus\documents\visual studio 2013\Projects\Brackeys-Variables\Brackeys-Variables\bin\Debug\Brackeys-Variables.exe
+d:\users\asus\documents\visual studio 2013\Projects\Brackeys-Variables\Brackeys-Variables\bin\Debug\Brackeys-Variables.pdb
+d:\users\asus\documents\visual studio 2013\Projects\Brackeys-Variables\Brackeys-Variables\obj\Debug\Brackeys-Variables.csprojResolveAssemblyReference.cache
+d:\users\asus\documents\visual studio 2013\Projects\Brackeys-Variables\Brackeys-Variables\obj\Debug\Brackeys-Variables.exe
+d:\users\asus\documents\visual studio 2013\Projects\Brackeys-Variables\Brackeys-Variables\obj\Debug\Brackeys-Variables.pdb

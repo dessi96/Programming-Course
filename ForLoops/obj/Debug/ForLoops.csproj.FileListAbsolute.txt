@@ -1,0 +1,6 @@
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\ForLoops\bin\Debug\ForLoops.exe.config
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\ForLoops\bin\Debug\ForLoops.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\ForLoops\bin\Debug\ForLoops.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\ForLoops\obj\Debug\ForLoops.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\ForLoops\obj\Debug\ForLoops.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\ForLoops\obj\Debug\ForLoops.pdb

@@ -1,0 +1,3 @@
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\Brackeys-Variables\bin\Debug\Brackeys-Variables.exe.config
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\Brackeys-Variables\obj\Debug\Brackeys-Variables.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\Brackeys-Variables\obj\Debug\Brackeys-Variables.pdb

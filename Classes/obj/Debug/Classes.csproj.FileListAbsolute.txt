@@ -1,0 +1,6 @@
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\Classes\bin\Debug\Classes.exe.config
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\Classes\bin\Debug\Classes.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\Classes\bin\Debug\Classes.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\Classes\obj\Debug\Classes.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\Classes\obj\Debug\Classes.pdb

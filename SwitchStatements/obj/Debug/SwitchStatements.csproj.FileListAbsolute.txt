@@ -1,0 +1,6 @@
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys-Variables\SwitchStatements\bin\Debug\SwitchStatements.exe.config
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys-Variables\SwitchStatements\bin\Debug\SwitchStatements.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys-Variables\SwitchStatements\bin\Debug\SwitchStatements.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys-Variables\SwitchStatements\obj\Debug\SwitchStatements.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys-Variables\SwitchStatements\obj\Debug\SwitchStatements.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys-Variables\SwitchStatements\obj\Debug\SwitchStatements.pdb

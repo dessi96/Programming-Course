@@ -1,0 +1,6 @@
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\Methods\bin\Debug\Methods.exe.config
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\Methods\bin\Debug\Methods.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\Methods\bin\Debug\Methods.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\Methods\obj\Debug\Methods.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\Brackeys\Methods\obj\Debug\Methods.pdb
